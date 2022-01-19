@@ -196,6 +196,8 @@ Consulta de Procesos Judiciales - TYBA (ramajudicial.gov.co): Permite consultar 
 
 ## Otros Recursos  
 
+* [https://m.dateas.com/es/servicio/personas/argentina): Data Base de algunos países dónde podrás sacar información de personas.
+
 * [https://www.arcgis.com/home/webmap/viewer.html](https://www.arcgis.com/home/webmap/viewer.html) : Permite visualizar el mapa mundial.
 
 * [https://www.flightradar24.com/7.7,-71.28/5](https://www.flightradar24.com/7.7,-71.28/5) : Permite visualizar los vuelos en vivo a nivel mundial.
